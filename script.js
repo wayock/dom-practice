@@ -37,3 +37,5 @@ button.addEventListener("click", addListAfterClick);
 
 input.addEventListener("keypress", addListAfterKeypress);
 
+// see link below for great solution.
+// https://github.com/mojsovska/mojsovska.github.io/commit/24f79ee00b9591e2608669ae0b51999172dc789f
